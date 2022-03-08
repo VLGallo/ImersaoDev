@@ -14,4 +14,4 @@ if (media >= 5){
 const exibirMedia = document.querySelector(".media");
 const p = document.createElement("p");
 p.innerText = resultado;
-div.media.appendChild(p);
+exibirMedia.appendChild(p);
