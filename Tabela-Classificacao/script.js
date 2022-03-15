@@ -1,3 +1,4 @@
+
 var saoPaulo = {
     nome: "São Paulo",
     vitorias: 2,
@@ -33,6 +34,7 @@ function calculaPontos(time) {
 
 var times = [saoPaulo, palmeiras, corinthians];
 
+
 function exibeTimesNaTela(times) {
     var elemento = "";
     for (var i = 0; i < times.length; i++) {
@@ -52,6 +54,9 @@ function exibeTimesNaTela(times) {
 }
 
 exibeTimesNaTela(times);
+
+
+/* Funções atreladas aos botões */
 
 function adicionarVitoria(i) {
     var time = times[i];
@@ -93,6 +98,6 @@ function inserirNovoTime() {
     };
 
     times.push(novoTime);
-    exibirTimesNaTela(times);
+    exibeTimesNaTela(times);
     nome.value = "";
 }
