@@ -12,18 +12,23 @@ Apesar desse não ser meu primeiro contato com o mundo do desenvolvimento e sobr
 # Índice de conteúdo
 
 Como mencionado anteriormente, os projetos realizados na imersão estão nas pastas:
+
 ## Calculadora de média
 
 <img src="https://user-images.githubusercontent.com/96696812/158798042-ff342a0c-ab23-42d0-b750-18e291f3486f.png" width="500">
+
 ## Conversor de moedas
 
 <img src="https://user-images.githubusercontent.com/96696812/158798175-67d20d76-7d9c-481c-9cd4-81ace6c409c6.png" width="500">
+
 ## Mentalista  (jogo de adivinhação)
 
 <img src="https://user-images.githubusercontent.com/96696812/158798251-029d2a28-ed8e-4861-8d9b-c403804dcd64.png" width="500">
+
 ## Alura flix
 
 <img src="https://user-images.githubusercontent.com/96696812/158797944-d084e0f7-595e-41a7-af4b-e2531d369377.png" width="500">
+
 ## Tabela Classificação
 
 <img src="https://user-images.githubusercontent.com/96696812/158798318-8c91e8fd-66b5-47ff-b8bf-40ed14e3194b.png" width="500">
