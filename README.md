@@ -13,7 +13,7 @@ Apesar desse não ser meu primeiro contato com o mundo do desenvolvimento e sobr
 
 Como mencionado anteriormente, os projetos realizados na imersão estão nas pastas:
 ## Calculadora de média
-![image](https://user-images.githubusercontent.com/96696812/158798042-ff342a0c-ab23-42d0-b750-18e291f3486f.png)
+<img src="https://user-images.githubusercontent.com/96696812/158798042-ff342a0c-ab23-42d0-b750-18e291f3486f.png" width="500">
 ## Conversor de moedas
 ![image](https://user-images.githubusercontent.com/96696812/158798175-67d20d76-7d9c-481c-9cd4-81ace6c409c6.png)
 ## Mentalista  (jogo de adivinhação)
