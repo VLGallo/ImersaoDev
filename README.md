@@ -27,6 +27,7 @@ Como mencionado anteriormente, os projetos realizados na imersão estão nas pas
 ## Tabela Classificação
 
 <img src="https://user-images.githubusercontent.com/96696812/158798318-8c91e8fd-66b5-47ff-b8bf-40ed14e3194b.png" width="500">
+
 ## Super-trunfo (jogo de cartas)
 
 <img src="https://user-images.githubusercontent.com/96696812/158798448-e5343238-ee09-48f6-b48c-004a13a25a41.png" width="500">
